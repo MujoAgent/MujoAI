@@ -1,6 +1,6 @@
 from agent.creative_agent import CreativeAgent
 from agent.learning_agent import LearningAgent
-
+ 
 def test_creative_agent():
     agent = CreativeAgent("Test Creative Agent")
     assert agent.generate_idea() is not None
