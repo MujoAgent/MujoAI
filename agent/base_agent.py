@@ -2,7 +2,7 @@ class BaseAgent:
     def __init__(self, name, role):
         self.name = name
         self.role = role
-
+ 
     def send_message(self, recipient, message):
         print(f"[{self.name} -> {recipient.name}]: {message}")
 
