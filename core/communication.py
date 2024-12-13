@@ -1,7 +1,7 @@
 class CommunicationManager:
     def __init__(self):
         self.messages = []
-
+ 
     def broadcast(self, agents, message):
         for agent in agents:
             print(f"Broadcasting to {agent.name}: {message}")
