@@ -1,7 +1,7 @@
 from agent.creative_agent import CreativeAgent
 from agent.learning_agent import LearningAgent
 from core.coordination import Coordinator
-
+ 
 def main():
     print("Initializing NeoAI System...")
 
