@@ -2,7 +2,7 @@
 
 Welcome to BushidoAI! BushidoAI is an experimental artificial intelligence platform inspired by the timeless principles of Bushido, The Way of the Warrior. It creates intelligent agents that embody the core elements of Earth, Water, Fire, Wind, and Void, bringing these virtues to life through autonomous learning, collaboration, and adaptive intelligence. BushidoAI seeks to advance AI research by exploring the intersection of ethical decision-making, cultural inspiration, and cutting-edge multi-agent systems.
 
-Stay connected with us through our [Twitter](https://x.com/BushidoAI) for updates, discussions, and advancements in the project.
+Stay connected with us through our [Twitter](https://x.com/bushido_ai) for updates, discussions, and advancements in the project.
 
 ---
 
@@ -68,4 +68,4 @@ BushidoAI is licensed under the MIT License. For more details, refer to the LICE
 
 ---
 
-For more information, stay tuned for updates and follow us on [Twitter](https://x.com/BushidoAI)!
+For more information, stay tuned for updates and follow us on [Twitter](https://x.com/bushido_ai)!
